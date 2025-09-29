@@ -1,7 +1,7 @@
 import { View, Text } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
 
-import { styles } from "./style";
+import { styles } from "./styles";
 import { colors } from "@/theme";
 
 import { Separator } from "../Separator";
